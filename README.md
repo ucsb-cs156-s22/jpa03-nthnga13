@@ -2,7 +2,8 @@
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-nthnga13/branch/main/graph/badge.svg?token=rAIOnppgsV)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-nthnga13) 
 
-Heroku Link: https://jpa03-nga.herokuapp.com/
+Heroku Link: https://jpa03-nga.herokuapp.com/  
+
 Codecov: https://app.codecov.io/gh/ucsb-cs156-s22/jpa03-nthnga13/ 
 
 Storybook is here:
